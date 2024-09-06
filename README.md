@@ -16,6 +16,8 @@ Run
 yarn dev
 ```
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+## Preview
+![](./public/img/img1.png)
+![](./public/img/img2.png)
+![](./public/img/img3.png)
+![](./public/img/img4.png)
